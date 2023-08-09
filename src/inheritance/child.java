@@ -1,6 +1,6 @@
 package inheritance;
 
-public class child extends parent {
+public class child extends parentt {
 	
 	
 	public void bike() {
